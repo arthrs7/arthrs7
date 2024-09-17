@@ -1,16 +1,15 @@
-## Hi there 👋
+Atualmente estudante do terceiro ano do ensino medio e aluno do curso **Tecnico em informatica para internet** no SENAI , Ipatinga/MG
 
-<!--
-**arthrs7/arthrs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Unidades curriculares:
+### concluidas:
 
-Here are some ideas to get you started:
+- [x] **COMUNICAÇÃO E REDAÇÃO TÉCNICA**
+- [x] **INFORMÁTICA APLICADA**
+- [x] **FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO**
+- [x] **LÓGICA DE PROGRAMAÇÃO**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### em progresso:
+
+- [ ] **PROJETO DE INTERFACE WEB**
+- [ ] **...**
